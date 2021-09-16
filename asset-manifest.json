@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/physics-calculator/static/css/main.19087659.chunk.css",
+    "main.css": "/physics-calculator/static/css/main.c4bbeb1d.chunk.css",
     "main.js": "/physics-calculator/static/js/main.31b111d3.chunk.js",
     "main.js.map": "/physics-calculator/static/js/main.31b111d3.chunk.js.map",
     "runtime-main.js": "/physics-calculator/static/js/runtime-main.c35fca39.js",
@@ -8,13 +8,13 @@
     "static/js/2.d7e7e4d3.chunk.js": "/physics-calculator/static/js/2.d7e7e4d3.chunk.js",
     "static/js/2.d7e7e4d3.chunk.js.map": "/physics-calculator/static/js/2.d7e7e4d3.chunk.js.map",
     "index.html": "/physics-calculator/index.html",
-    "static/css/main.19087659.chunk.css.map": "/physics-calculator/static/css/main.19087659.chunk.css.map",
+    "static/css/main.c4bbeb1d.chunk.css.map": "/physics-calculator/static/css/main.c4bbeb1d.chunk.css.map",
     "static/js/2.d7e7e4d3.chunk.js.LICENSE.txt": "/physics-calculator/static/js/2.d7e7e4d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c35fca39.js",
     "static/js/2.d7e7e4d3.chunk.js",
-    "static/css/main.19087659.chunk.css",
+    "static/css/main.c4bbeb1d.chunk.css",
     "static/js/main.31b111d3.chunk.js"
   ]
 }
