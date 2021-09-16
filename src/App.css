@@ -54,6 +54,15 @@ input[type='number'] {
     sans-serif;
 }
 
+button :hover {
+  cursor: pointer;
+  box-shadow: 0px 0px 7px #888888;
+}
+
+.answer {
+  margin-top: 0.75rem;
+}
+
 .hidden {
   display: none;
 }

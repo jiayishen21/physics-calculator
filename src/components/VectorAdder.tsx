@@ -115,7 +115,7 @@ export const VectorAdder: React.FC<Props> = () => {
 				<span className={getClass()}>
 					<button className="adder-button" onClick={() => addVectors()}>Add vectors</button>
 
-					<div>{answer}</div>
+					<div className="answer">{answer}</div>
 				</span>
 			</div>
 		</Fragment>
